@@ -1,0 +1,58 @@
+.title-heading{
+    text-align: center;
+    font-family: 'Rowdies', cursive;
+    color:white;
+    padding:10px;
+    font-size: 100px;
+    font-family: 'Anton', sans-serif;
+    font-weight:1000;
+}
+.image-1{
+    height:800px;
+    width: 800px;
+}
+body{
+    background: url("https://is5-ssl.mzstatic.com/image/thumb/Purple111/v4/11/4c/0e/114c0e6a-eb12-8158-a1c7-64632cfd6a3f/source/512x512bb.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.header-img-2{
+    float:right;
+    height: 100px;
+    margin-right: 300px;
+    position: relative;
+    bottom:130px;
+}
+.header-img-1{
+    height:100px;
+    border-radius: 50%;
+    position: relative;
+    bottom:130px;
+    margin-left:100px;
+}
+.likes-div{
+    display:none;
+    height:500px;
+    width: 500px;
+    background-color: white;
+    float: right;
+    position: relative;
+    bottom:30px;
+    left:200px;
+    border:5px solid black;
+}
+.header-anchor:hover+div{
+    display:block;
+}
+.likes-div:hover{
+    display:block;
+}
+.likes-div-heading{
+    text-align: center;
+    color:gold;
+}
+.slider-img{
+    height:500px;
+    width:70%;
+    margin-left:200px;
+}
