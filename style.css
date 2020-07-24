@@ -66,3 +66,18 @@ body{
     height: 60px;
     width:90px;
 }
+.dislike-button{
+    height:80px;
+    margin-left: 900px;
+    width:100px;
+    position: relative;
+    bottom:80px;
+}
+.dislike-button-img{
+    height: 60px;
+    width:90px;
+}
+.function-div{
+    border:3px solid blue;
+    height:400px;
+}
