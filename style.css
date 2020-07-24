@@ -13,7 +13,7 @@
     width: 800px;
 }
 body{
-    background: url("https://is5-ssl.mzstatic.com/image/thumb/Purple111/v4/11/4c/0e/114c0e6a-eb12-8158-a1c7-64632cfd6a3f/source/512x512bb.jpg");
+    background: url("https://image.shutterstock.com/image-illustration/3d-illustration-background-image-threedimensional-260nw-1457497799.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -78,6 +78,5 @@ body{
     width:90px;
 }
 .function-div{
-    border:3px solid blue;
     height:400px;
 }
