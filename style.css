@@ -6,6 +6,7 @@
     font-size: 100px;
     font-family: 'Anton', sans-serif;
     font-weight:1000;
+    cursor:grab;
 }
 .image-1{
     height:800px;
@@ -55,4 +56,13 @@ body{
     height:500px;
     width:70%;
     margin-left:200px;
+}
+.like-button{
+    height:80px;
+    margin-left: 700px;
+    width:100px;
+}
+.like-button-img{
+    height: 60px;
+    width:90px;
 }
