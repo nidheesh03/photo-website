@@ -66,20 +66,17 @@ body{
     height: 60px;
     width:90px;
 }
-.dislike-button{
-    height:80px;
-    margin-left: 900px;
-    width:100px;
-    position: relative;
-    bottom:80px;
+.img-div button{
+    height:70px;
+    width:70px;
+    margin-left: 50px;
+    background-color: yellow;
+    color:black;
 }
-.dislike-button-img{
-    height: 60px;
-    width:90px;
-}
-.function-div{
+.img-div{
     text-align: center;
 }
 .img-div img{
     height:300px;
+    margin-left: 30px;
 }
